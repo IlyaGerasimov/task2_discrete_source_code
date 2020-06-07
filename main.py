@@ -1,8 +1,6 @@
-
 import argparse
 import json
 import math
-import random
 
 
 def parse_init():
